@@ -1,0 +1,17 @@
+@extends('frontend.layouts.app')
+
+@section('content')
+    @include('frontend.website.spinner')
+    @include('frontend.components.navbar')
+    @include('frontend.components.header')
+    @include('frontend.website.videomodel')
+    @include('frontend.website.about')
+    @include('frontend.website.expertise')
+    @include('frontend.website.services')
+    @include('frontend.website.projects')
+    @include('frontend.website.team')
+    @include('frontend.website.testimonial')
+    @include('frontend.website.contacts')
+    @include('frontend.website.map')
+    @include('frontend.website.copyright')
+@endsection
