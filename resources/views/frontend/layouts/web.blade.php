@@ -9,7 +9,6 @@
     @include('frontend.website.expertise')
     @include('frontend.website.services')
     @include('frontend.website.projects')
-    @include('frontend.website.team')
     @include('frontend.website.testimonial')
     @include('frontend.website.contacts')
     @include('frontend.website.map')

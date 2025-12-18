@@ -419,8 +419,8 @@
     background: var(--primary);
 }
 body {
-    padding-top: 200px; /* Adjust based on your navbar height */
-    padding-bottom: 200px;
+    padding-top: 100px; /* Adjust based on your navbar height */
+    padding-bottom: 50 px;
 }
 .testimonial-carousel .owl-item {
     display: flex;

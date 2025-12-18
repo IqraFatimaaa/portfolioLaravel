@@ -10,7 +10,7 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse justify-content-between py-4 py-lg-0" id="navbarCollapse">
+    <div class="collapse navbar-collapse justify-content-center py-4 py-lg-0" id="navbarCollapse">
 
         <div class="navbar-nav ms-auto py-0">
             <a href="#home" class="nav-item nav-link active">Home</a>
@@ -25,7 +25,6 @@
 
         <div class="navbar-nav me-auto py-0">
             <a href="#project" class="nav-item nav-link">Projects</a>
-            <a href="#team" class="nav-item nav-link">Team</a>
             <a href="#testimonial" class="nav-item nav-link">Testimonial</a>
             <a href="#contact" class="nav-item nav-link">Contact</a>
         </div>
